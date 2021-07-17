@@ -8,8 +8,5 @@ blurb:
 intro:
   heading: About National Drink Beer Day
   text: Lots of info about it should go here
-products: []
-values:
-  heading: Our values
-  text: This section needs deleted
+
 ---
